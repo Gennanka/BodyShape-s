@@ -52,8 +52,8 @@ body {
     height: 750px;
 
     background-image: image-set(
-        url("/img/HeaderFooter/hero-bg.jpg") 1x,
-        url("/img/HeaderFooter/hero-bg@2x.jpg") 2x
+        url("../img/HeaderFooter/hero-bg.jpg") 1x,
+        url("../img/HeaderFooter/hero-bg@2x.jpg") 2x
     );
 
     object-fit: cover;
@@ -200,8 +200,8 @@ body {
     align-items: center;
 
     background-image: image-set(
-        url("/img/HeaderFooter/beast-bg.jpg") 1x,
-        url("/img/HeaderFooter/beast-bg@2x.jpg") 2x
+        url("../img/HeaderFooter/beast-bg.jpg") 1x,
+        url("../img/HeaderFooter/beast-bg@2x.jpg") 2x
     );
 
     object-fit: cover;
@@ -287,8 +287,8 @@ body {
     align-items: center;
 
     background-image: image-set(
-        url("/img/HeaderFooter/contact-form-bg.jpg") 1x,
-        url("/img/HeaderFooter/contact-form-bg@2x.jpg") 2x
+        url("../img/HeaderFooter/contact-form-bg.jpg") 1x,
+        url("../img/HeaderFooter/contact-form-bg@2x.jpg") 2x
     );
 
     object-fit: cover;
